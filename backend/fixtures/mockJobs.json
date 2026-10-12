@@ -1,0 +1,53 @@
+[
+  {
+    "id": "mock-job-1",
+    "title": "Junior Frontend Developer (React / JavaScript)",
+    "company": "TechInnovate Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "via": "via LinkedIn",
+    "description": "Looking for a fresh graduate or junior developer with strong knowledge of React, JavaScript, HTML5, and CSS3. Must have built responsive web apps. Basic experience with Tailwind CSS is a plus. 0-1 years of experience required. Freshers are encouraged to apply.",
+    "shareLink": "https://www.google.com/search?ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htidocid=mock1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR",
+    "extensions": ["1 day ago", "Full-time", "Internship / Fresher"],
+    "applyOptions": [
+      {
+        "title": "Apply on LinkedIn",
+        "link": "https://www.linkedin.com/jobs/view/mock-1"
+      }
+    ]
+  },
+  {
+    "id": "mock-job-2",
+    "title": "Software Engineer Trainee - Web & Cloud",
+    "company": "CloudSphere India",
+    "location": "Hyderabad, Telangana, India",
+    "via": "via Naukri.com",
+    "description": "We are hiring trainee engineers! Requirements: Strong fundamentals in JavaScript or Python, REST APIs, Git, and SQL databases. Node.js or React knowledge will give an advantage. Open for 2025/2026 batches.",
+    "shareLink": "https://www.google.com/search?ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htidocid=mock2",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2",
+    "extensions": ["2 days ago", "Full-time"],
+    "applyOptions": [
+      {
+        "title": "Apply on Naukri",
+        "link": "https://www.naukri.com/job-listings-mock-2"
+      }
+    ]
+  },
+  {
+    "id": "mock-job-3",
+    "title": "Senior Frontend Architect",
+    "company": "Enterprise Global Systems",
+    "location": "Remote, India",
+    "via": "via Indeed",
+    "description": "Requires minimum 6+ years of production experience in React, TypeScript, Micro-frontends, CI/CD, and high-scale architecture. Team leadership experience is mandatory.",
+    "shareLink": "https://www.google.com/search?ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htidocid=mock3",
+    "thumbnail": null,
+    "extensions": ["3 days ago", "Full-time"],
+    "applyOptions": [
+      {
+        "title": "Apply on Indeed",
+        "link": "https://www.indeed.com/viewjob?jk=mock3"
+      }
+    ]
+  }
+]
