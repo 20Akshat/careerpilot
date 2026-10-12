@@ -1,7 +1,6 @@
 import { useState, useRef } from 'react'
 import { MapPin, Loader2, Rocket, Upload, FileText, X, CheckCircle, ChevronDown, Sparkles } from 'lucide-react'
-
-const API = 'http://localhost:5000'
+import { API } from '../config'
 
 const ROLE_SUGGESTIONS = [
   'Frontend Developer', 'Backend Developer', 'Full Stack Developer',

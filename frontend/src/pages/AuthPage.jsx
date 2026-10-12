@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import { Rocket, Eye, EyeOff, Mail, Lock, User, ArrowRight, CheckCircle } from 'lucide-react'
-
-const API = 'http://localhost:5000'
+import { API } from '../config'
 
 export default function AuthPage({ onLogin }) {
   const [mode, setMode]       = useState('login') // login | register

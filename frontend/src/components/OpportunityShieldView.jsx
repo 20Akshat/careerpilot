@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import { ShieldCheck, ShieldAlert, AlertTriangle, Search, ExternalLink, CheckCircle2, XCircle, HelpCircle, Loader2, Sparkles, Building2 } from 'lucide-react'
-
-const API = 'http://localhost:5000'
+import { API } from '../config'
 
 export default function OpportunityShieldView({ initialCompany = '', initialRole = '' }) {
   const [company, setCompany] = useState(initialCompany)

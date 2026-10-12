@@ -1,8 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Sparkles, Users, FileCheck2, Headphones, Copy, Check, ExternalLink, Loader2, Send, Lightbulb, ChevronRight, Download, FileText, ArrowDownToLine, Briefcase, GraduationCap, Award } from 'lucide-react'
 import { jsPDF } from 'jspdf'
-
-const API = 'http://localhost:5000'
+import { API } from '../config'
 
 export default function CareerCopilotModal({ job, candidateName = 'Akshat Marwadi', candidateSkills = [], onClose }) {
   const [activeTab, setActiveTab] = useState('recruiter') // 'recruiter' | 'resume' | 'interview'

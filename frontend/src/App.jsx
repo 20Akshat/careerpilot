@@ -9,8 +9,7 @@ import OpportunityShieldView from './components/OpportunityShieldView'
 import ApplicationTrackerView from './components/ApplicationTrackerView'
 import CareerCopilotModal from './components/CareerCopilotModal'
 import { Briefcase, SearchX, Database, Trophy, Target, TrendingUp } from 'lucide-react'
-
-const API = 'http://localhost:5000'
+import { API } from './config'
 
 const OFFLINE_JOBS = [
   {
